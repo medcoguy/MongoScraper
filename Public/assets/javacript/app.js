@@ -14,7 +14,7 @@ function shownote(event) {
 	});
 
 }
-
+console.log("hi")
 function addnote(event) {
 	event.preventDefault();
 	var id = $(this).attr("value");
