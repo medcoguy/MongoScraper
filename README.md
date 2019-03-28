@@ -1,4 +1,4 @@
-# The New York Time Scraper
+# The New York Times Scraper
 
 ### Overview
 
